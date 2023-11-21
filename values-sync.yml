@@ -5,4 +5,3 @@ dags:
         depth: 1
         enabled: true
         subPath: dags
-        sshKeySecret: airflow-ssh-secret
